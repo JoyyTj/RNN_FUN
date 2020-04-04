@@ -1,7 +1,7 @@
 ## Description   
 An automatic Chinese poem generator based on LSTM is implemented in this file.   
 Process for raw json data is in [data.py](https://github.com/JoyyTj/RNN_FUN/blob/master/Chinese%20Poetry/data.py) and [data_utils.py](https://github.com/JoyyTj/RNN_FUN/blob/master/Chinese%20Poetry/data_utils.py)    
-Lines for the model, training and testing are in [main.ipynb](https://github.com/JoyyTj/RNN_FUN/blob/master/Chinese%20Poetry/main.ipynb) 
+Lines for the model, training, testing and final results are in [main.ipynb](https://github.com/JoyyTj/RNN_FUN/blob/master/Chinese%20Poetry/main.ipynb) 
    
 ## Training data from:   
 https://github.com/chinese-poetry/chinese-poetry   
