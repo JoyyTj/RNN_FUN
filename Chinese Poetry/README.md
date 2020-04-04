@@ -1,5 +1,6 @@
 ## Description   
 An automatic Chinese poem generator based on LSTM is implemented in this file.   
+In data.py[https://github.com/JoyyTj/RNN_FUN/blob/master/Chinese%20Poetry/data.py] and data
    
 ## Training data from:   
 https://github.com/chinese-poetry/chinese-poetry   
